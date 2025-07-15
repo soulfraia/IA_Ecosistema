@@ -1,0 +1,8 @@
+# Bitácora – Fase 0
+Fecha: 2025-06-15
+- Instalé Ubuntu en el SSD Crucial.
+- Configuré entorno virtual y paquetes.
+- Subí el repo inicial a GitHub sin pedir contraseña.
+Próximas acciones:
+- Crear script bootstrap
+- Primer notebook de prueba
