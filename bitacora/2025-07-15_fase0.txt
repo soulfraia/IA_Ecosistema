@@ -12,3 +12,4 @@
   2. Script `install_tools.sh` terminado y probado.  
   3. Primer notebook “hello-ia.ipynb” dentro de `experimentos/`.
 
+- 15-jul-2025  Se creó y versionó hello-ia.ipynb
