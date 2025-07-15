@@ -1,8 +1,14 @@
-# Bitácora – Fase 0
-Fecha: 2025-06-15
-- Instalé Ubuntu en el SSD Crucial.
-- Configuré entorno virtual y paquetes.
-- Subí el repo inicial a GitHub sin pedir contraseña.
-Próximas acciones:
-- Crear script bootstrap
-- Primer notebook de prueba
+### 2025-07-15  –  Día 0  (arranque entorno)
+
+- Instalado Ubuntu 24.04 LTS en SSD Crucial (modo Legacy, secure-boot OFF).  
+- Entorno virtual creado en `~/test_venv`, activado correctamente.  
+- Librerías clave instaladas (PyTorch, scikit-learn, transformers…).  
+- Estructura de carpetas del ecosistema IA generada.  
+- Repositorio Git inicializado y subido a GitHub: https://github.com/soulfraia/IA_Ecosistema  
+- Token de acceso configurado con `credential.helper store`.  
+- Bitácora creada y subida.  
+- Pendiente para mañana:  
+  1. Plantilla de tareas semanales (cronograma Fase 0).  
+  2. Script `install_tools.sh` terminado y probado.  
+  3. Primer notebook “hello-ia.ipynb” dentro de `experimentos/`.
+
